@@ -1,4 +1,4 @@
-Hi, I'm Pamina
+Hi, I'm Pamina!
 
 I’m a Computer Science undergraduate at the Informatics Institute of Technology (IIT), passionate about building meaningful digital products and continuously growing as a developer.
 
