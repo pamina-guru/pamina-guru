@@ -2,8 +2,6 @@
 
 I’m a **Computer Science undergraduate** at the Informatics Institute of Technology (IIT), passionate about building **meaningful digital products** and continuously growing as a developer.
 
-I enjoy working on **real-world projects** that combine functionality with thoughtful design, with a strong interest in **frontend and full-stack development**.
-
 ---
 
 ## 💡 About Me
