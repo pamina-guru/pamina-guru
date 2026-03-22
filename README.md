@@ -17,7 +17,7 @@ I’m a **Computer Science undergraduate** at the Informatics Institute of Techn
 ## 🚀 Tech Stack
 
 ### Languages
-Java • Python • JavaScript • TypeScript • Dart
+Java • Python • JavaScript • Dart
 
 ### Frontend & Mobile
 HTML • CSS • Tailwind CSS • React.js • Next.js • Flutter
